@@ -1,0 +1,5 @@
+oslo.config python-oslo-config
+oslo.serialization python-oslo-serialization
+oslo.i18n python-oslo-i18n
+oslo.utils python-oslo-utils
+oslo.log python-oslo-log
