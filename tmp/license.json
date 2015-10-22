@@ -1,0 +1,23 @@
+{
+    "license":
+    {
+        "identity": {
+            "version":"v3",
+            "endpoint":"http://[HOST]/v3/auth/tokens"
+        },
+        "project": {
+            "id":"f383613fbcd74d6f8f9d4a40721ef811",
+            "name":"marshal-demo"
+        },
+        "credentials": {
+            "type":"user",
+            "user": {
+                "id":"4c49397e2d9f41e392498b8079c65343",
+                "password":"changeit"
+            }
+        },
+        "key": {
+            "id":"e2ccc708-7c8d-437d-aaac-12bad476dd25"
+        }
+    }
+}
