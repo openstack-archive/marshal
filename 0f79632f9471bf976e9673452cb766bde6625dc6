@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Dave McCowan <dmccowan@cisco.com>
+Workflow+1: Dave McCowan <dmccowan@cisco.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 23 Oct 2015 03:06:01 +0000
+Reviewed-on: https://review.openstack.org/238690
+Project: openstack/marshal
+Branch: refs/heads/master
