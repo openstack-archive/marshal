@@ -51,10 +51,10 @@
 #### Clone to local repository:
 
 #####Via SSH: 
-```$ git clone git@github.com:CiscoCloud/marshal.git ```
+```$ git clone git@github.com:openstack/marshal.git ```
 
 #####Via HTTPS: 
-```$ git clone https://github.com/CiscoCloud/marshal.git ```
+```$ git clone https://github.com/openstack/marshal.git ```
 
 
 ### Software Requirements
