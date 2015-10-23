@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Arvind Tiwari <arvtiwar@cisco.com>
+Workflow+1: Arvind Tiwari <arvtiwar@cisco.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 23 Oct 2015 13:00:37 +0000
+Reviewed-on: https://review.openstack.org/238899
+Project: openstack/marshal
+Branch: refs/heads/master
