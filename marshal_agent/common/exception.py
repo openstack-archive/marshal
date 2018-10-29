@@ -18,7 +18,7 @@
 Marshal exception subclasses
 """
 
-import urlparse
+from six.moves.urllib.parse import urlparse
 
 import marshal_agent.i18n as u
 
@@ -27,7 +27,7 @@ _FATAL_EXCEPTION_FORMAT_ERRORS = False
 
 class RedirectException(Exception):
     def __init__(self, url):
-        self.url = urlparse.urlparse(url)
+        self.url = urlparse(url)
 
 
 class MarshalException(Exception):
