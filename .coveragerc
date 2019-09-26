@@ -1,7 +1,0 @@
-[run]
-branch = True
-source = marshal
-omit = marshal/openstack/*
-
-[report]
-ignore_errors = True
